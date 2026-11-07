@@ -14,3 +14,4 @@ An interactive, festive Diwali celebration web card crafted with modern web anim
 
 ---
 Made with 🪔 by Krish.
+
